@@ -1,0 +1,11 @@
+D:\csharp\ClaculatorUI\ClaculatorUI\bin\Debug\ClaculatorUI.exe.config
+D:\csharp\ClaculatorUI\ClaculatorUI\bin\Debug\ClaculatorUI.exe
+D:\csharp\ClaculatorUI\ClaculatorUI\bin\Debug\ClaculatorUI.pdb
+D:\csharp\ClaculatorUI\ClaculatorUI\obj\Debug\ClaculatorUI.csproj.AssemblyReference.cache
+D:\csharp\ClaculatorUI\ClaculatorUI\obj\Debug\ClaculatorUI.csproj.SuggestedBindingRedirects.cache
+D:\csharp\ClaculatorUI\ClaculatorUI\obj\Debug\ClaculatorUI.Calculator.resources
+D:\csharp\ClaculatorUI\ClaculatorUI\obj\Debug\ClaculatorUI.Properties.Resources.resources
+D:\csharp\ClaculatorUI\ClaculatorUI\obj\Debug\ClaculatorUI.csproj.GenerateResource.cache
+D:\csharp\ClaculatorUI\ClaculatorUI\obj\Debug\ClaculatorUI.csproj.CoreCompileInputs.cache
+D:\csharp\ClaculatorUI\ClaculatorUI\obj\Debug\ClaculatorUI.exe
+D:\csharp\ClaculatorUI\ClaculatorUI\obj\Debug\ClaculatorUI.pdb
