@@ -1,2 +1,1 @@
-# TrendyUI_Calculator
-Latest UI Calculator designed &amp; built with C# WindowForm 
+StylishSum is a sleek and modern calculator application built using C# and WinForms. This application offers a user-friendly interface with a contemporary design, making complex calculations a breeze. Whether you're a student, professional, or just someone in need of a reliable calculator, ModernCalc provides all the essential functions you need with an elegant twist. Dive into the world of efficient calculations with style!
